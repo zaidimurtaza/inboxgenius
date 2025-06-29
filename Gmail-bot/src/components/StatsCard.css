@@ -1,0 +1,17 @@
+/* StatsCard component styles */
+.stats-card {
+  /* Additional custom styles can be added here if needed */
+}
+
+/* Custom gradient backgrounds if Tailwind classes don't work */
+.bg-gradient-primary {
+  background: linear-gradient(to right, #3b82f6, #1d4ed8);
+}
+
+.bg-gradient-danger {
+  background: linear-gradient(to right, #ef4444, #dc2626);
+}
+
+.bg-gradient-success {
+  background: linear-gradient(to right, #10b981, #059669);
+} 
