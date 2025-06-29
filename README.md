@@ -3,6 +3,7 @@
 A powerful Gmail management tool that uses AI to analyze and categorize your emails, helping you identify important messages and suggested deletions.
 
 ## 🚀 New Features
+![image](https://github.com/user-attachments/assets/18758586-4ef4-45f4-b1bd-4f0a28ce5214)
 
 ### Enhanced Email Analysis Workflow
 - **Step 1**: Fetch emails with customizable criteria
